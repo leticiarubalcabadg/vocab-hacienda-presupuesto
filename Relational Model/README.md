@@ -2,7 +2,7 @@
 
 <img src="https://ciudadesabiertas.es/assets/img/cabiertas/logo.svg" alt="LogoCiudadesAbiertas" width="200"/> 
 
-# DESARROLLO API REST DE DATOS REUTILIZABLE. MODELO DE TABLAS: CENSO DE LOCALES
+# DESARROLLO API REST DE DATOS REUTILIZABLE. MODELO DE TABLAS: PRESUPUESTOS
 
 &nbsp;
 
